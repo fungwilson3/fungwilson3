@@ -4,7 +4,7 @@ Hi 👋! I'm Wilson, an aspiring software engineer who loves solving problems an
 
 - 🌱 I see computer science as a means to help us break down complex problems and create solutions respectively in many fields from technological advancements, to healthcare, to education. 
 
-- 🏫 My coursework in AI, ML, Algorithms, Databases, and more have led me to understand how crucial computer sicnece is in any field. I am particularly interested in the intersection of AI and education and how AI can be utilized to help student learning rather than be used to cut corners. Beyong this, I hope to generalize AI within education to help students of all ages and studies. 
+- 🏫 My coursework in AI, ML, Algorithms, Databases, and more have led me to understand how crucial computer science is in any field. I am particularly interested in the intersection of AI and education and how AI can be utilized to help student learning rather than be used to cut corners. Beyond this, I hope to generalize AI within education to help students of all ages and studies. 
 
 - 🧑‍🏫 I currently teach CS 61B, Data Structures, at UC Berkeley where I lead 1300+ students in lab work weekly, while providing office hour support. I enjoy teaching and hope to make computer science more accessible to those on campus and beyond!
 
