@@ -10,7 +10,7 @@ Hi 👋! I'm Wilson, an aspiring software engineer who loves solving problems an
 
 - 💭 Outside of school, I enjoy playing volleyball and vlogging, where I release several videos a year of my memories in college with those who I love the most. 
 
-- 📫 Please feel free to email me at fungwilson3@berkeley.edu with any questions!
+📫 Please feel free to email me at fungwilson3@berkeley.edu with any questions!
 
 <!--
 **fungwilson3/fungwilson3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
